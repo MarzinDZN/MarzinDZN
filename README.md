@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Marcelo
 
-<!--
-**MarzinDZN/MarzinDZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science · Web Design Enthusiast**
 
-Here are some ideas to get you started:
+Computer Science student with a genuine interest in Web Design, not just as a technical skill, but as a discipline: Design Thinking, UX, UI, accessibility, typography, visual composition. This account lives outside my professional context, it's where I experiment, build personal projects, and work on things I simply feel like making.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I'm currently learning
+
+| Area | Current focus |
+|---|---|
+| 🎨 Web Design | Design Thinking · UX/UI · Typography · Visual composition |
+| 💻 Frontend | HTML · CSS · JavaScript |
+| 🐍 Other languages | Python · C |
+| 🔒 Infra & Networks | Linux · TCP/IP · Cybersecurity |
+| 🇨🇳 Languages | Mandarin Chinese (beginner) — work in progress |
+
+---
+
+## 📂 What you'll find here
+
+Personal projects, design experiments, thematic websites and other builds that don't quite fit a professional portfolio — but reflect how I think and what interests me. Variable quality guaranteed. 😄
+
+---
+
+## 🗣️ Languages
+
+- Portuguese (native)
+- English (advanced)
+- Spanish (basic)
+- 普通话 / Mandarin (beginner 🐣)
+
+---
+
+📧 `srmarcelodzn@gmail.com`
